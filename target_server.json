@@ -1,0 +1,19 @@
+{
+    "server": [
+        {
+            "hostname": "longtruong-gitlab-server",
+            "ip": "192.168.1.100",
+            "user": "longtruong"
+        },
+        {
+            "hostname": "L417167-CD100",
+            "ip": "172.29.145.126",
+            "user": "longtruong"
+        },
+        {
+            "hostname": "longtruong-jenkins-server",
+            "ip": "192.168.1.101",
+            "user": "longtruong"
+        }
+    ]
+}
